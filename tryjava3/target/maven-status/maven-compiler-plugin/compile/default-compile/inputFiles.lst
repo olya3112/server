@@ -1,0 +1,15 @@
+/home/olya/study_java/tryjava3/src/main/java/server/configuration/SwaggerConfig.java
+/home/olya/study_java/tryjava3/src/main/java/server/seure/SecurityConfiguration.java
+/home/olya/study_java/tryjava3/src/main/java/server/model/User.java
+/home/olya/study_java/tryjava3/src/main/java/server/model/ApiUser.java
+/home/olya/study_java/tryjava3/src/main/java/api/dto/UserDto.java
+/home/olya/study_java/tryjava3/src/main/java/server/controllers/UserController.java
+/home/olya/study_java/tryjava3/src/main/java/server/model/Account.java
+/home/olya/study_java/tryjava3/src/main/java/server/repositories/ApiUserRepository.java
+/home/olya/study_java/tryjava3/src/main/java/server/controllers/GreetingController.java
+/home/olya/study_java/tryjava3/src/main/java/server/repositories/UserRepository.java
+/home/olya/study_java/tryjava3/src/main/java/server/seure/MyUserDetailService.java
+/home/olya/study_java/tryjava3/src/main/java/server/DataLoader.java
+/home/olya/study_java/tryjava3/src/main/java/server/controllers/AccountController.java
+/home/olya/study_java/tryjava3/src/main/java/server/repositories/AccountRepository.java
+/home/olya/study_java/tryjava3/src/main/java/server/Application.java
