@@ -12,6 +12,4 @@ public class Application extends SpringApplicationBuilder {
         SpringApplication.run(Application.class, args);
     }
 
-
-
 }
